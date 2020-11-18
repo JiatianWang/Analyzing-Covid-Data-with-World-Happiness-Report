@@ -40,4 +40,4 @@ I am going to merge these two data sets and calculate a measure which can help u
 ## Conclusion
 
 As a result off this analysis, I would like see if there is any correlation between the columns related to different life and columns that represent the spread of the virus in each these countires
-I found the factors that correlate with maximun infection rate. I have the all positive correlations between all of other life factors, but they are all week correlation.
+I found the factors that correlate with maximun infection rate. I have the all positive correlations between all of other life factors, but they are all weak correlation.
